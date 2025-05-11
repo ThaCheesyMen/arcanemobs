@@ -14,7 +14,7 @@ Welcome to the **ArcaneMobs** official wiki! This plugin brings RPG mechanics to
 
 > 🔄 Current Version: **Alpha**
 >  
-> 💬 [Join our Discord](https://your-discord-link.com) to report bugs, suggest features, or get help!
+> 💬 [Join our Discord](https://discord.com/invite/g7wG4MwfJn) to report bugs, suggest features, or get help!
 
 ---
 
